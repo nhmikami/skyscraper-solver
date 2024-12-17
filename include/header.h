@@ -4,7 +4,7 @@
 # include <unistd.h>
 
 # ifndef N
-#  define N 5
+#  define N 4
 # endif
 
 int	solve_board(int board[N][N], int views[4][N], int row, int col);
