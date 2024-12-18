@@ -35,7 +35,7 @@ The puzzle is solved using a **Backtracking Algorithm**, which systematically ex
 
 ## Executing the code
 **Choose board size**<br />
-You can change the board size by modifying the variable N inside the include/header.h file. The default value is set to 4. For example, to change the grid size to 5x5, modify the N value as follows:
+You can change the board size by modifying the variable `N` inside the `include/header.h` file. The default value is set to 4. For example, to change the grid size to 5x5, modify the N value as follows:
 ```c
 # define N 5
 ```
